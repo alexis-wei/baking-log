@@ -1,0 +1,6 @@
+node_modules
+.next
+.baking-local
+backups
+pnpm-lock.yaml
+*.log
